@@ -1,1 +1,1 @@
-Implementing Huffman's algorithm.
+Implementation of Huffman's algorithm.
